@@ -166,7 +166,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {//total button listener
                 String numContacts = Integer.toString(contacts.size());
-                result.setText("Contacts: " + numContacts);
+                result.setText("Contacts = " + numContacts);
             }
         });
     }
