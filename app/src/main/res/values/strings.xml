@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Phonebook</string>
+    <string-array name="array_technology">
+        <item>Arto Hellas 123456</item>
+
+        <item>Mary Poppendieck 4569813</item>
+        <item>Ada Lovelace 2136598 </item>
+       <item>Marc Smith 78965</item>
+        <item>Terry Williams 12302538</item>
+        <item>Felix Adams 85694</item>
+        <item>Joanna Goldberg 569823</item>
+        <item>Augusta Reynolds 578963</item>
+        <item>Sarah Anderson 58634</item>
+        <item>Norbert West 697321</item>
+        <item>Cathy Rossi 789654</item>
+        <item>Francis Stephens 7836509</item>
+    </string-array>
+</resources>
